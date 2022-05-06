@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Human Breast Cell Atlas
+The adult human breast comprises of an intricate network of epithelial ducts and lobules that are embedded in connective and fatty tissues.  While previous studies have focused mainly on epithelial cells, other stromal, adipose and immune cell types remain understudied.  The Human Breast Atlas is a comprehensive unbiased using single cell and spatial genomic technologies to profile 248,687 cells from the breast tissues of 60 women, in addition to 89,301 nuclei from 20 women.  From these data 10 major cell types and 32 cell states with different biological functions were defined and organized into 4 spatial domains (adipose, fibrous connective, ducts, lobules).  Collectively, these data provide an unprecedented atlas of the normal cell types and cell states in the human breast, that will serve as an important reference for studying breast biology, development and diseases such as breast cancer.
 
-You can use the [editor on GitHub](https://github.com/navinlabcode/HumanBreastCellAtlas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Learn more in our manuscript and our GitHub repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [CZI](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) 
 
-### Markdown
+## Raw Data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Protocols
 
-```markdown
-Syntax highlighted code block
+### Human Breast Tissues Dissociation 
 
-# Header 1
-## Header 2
-### Header 3
+[Protocol Link](https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1)
+Protocol Authors: Shanshan Bai, Emi Sei, Nicholas E. Navin
 
-- Bulleted
-- List
+The link above is for the protocol to issolate single cell susspension for used by HBCA project to obtain high-viability cell suspensions from freshly dissociated breast tissues from human patients. This protocol covers two two options for performing this protocol: rapid-dissociation (15-30 min) or exhaustive dissociation (overnight). 
 
-1. Numbered
-2. List
+### Single Nuclei RNA Sequencing of Breast Adipose Tissue (10x Nuclei-Seq)
 
-**Bold** and _Italic_ and `Code` text
+[Protocol Link](https://www.protocols.io/view/single-nuclei-rna-sequencing-of-breast-adipose-tis-6qpvreob3lmk/v1)
 
-[Link](url) and ![Image](src)
-```
+Protocol Authors: Kevin Nee, Quy Nguyen, Kai Kessenbrock
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissues to handle adipose tissue, due to its delicate and lipid filled nature is not amenable to these methods of interrogation. This protocol was used to investigate the heterogeneity of stroma and adipocytes in normal breast tissues, and determine the interactions of the breast microenvironment at single-cell resolution. 
 
-### Jekyll Themes
+## Team
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/navinlabcode/HumanBreastCellAtlas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Navin Lab](https://navinlabcode.github.io/) 
 
-### Support or Contact
+[Kessenbrock Lab](https://kessenbrocklab.com/people/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Lawson Lab](https://lawsonlab.org/people/)
+
+## Contact 
