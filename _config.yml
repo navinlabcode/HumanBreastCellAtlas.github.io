@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+# Site settings
+title: Human Breast Cell Atlas
+email: NNavin@mdanderson.org
+description: "The Human Breast Cell Atlas"
