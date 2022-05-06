@@ -12,6 +12,7 @@ Learn more in our manuscript and our GitHub repository.
 ### Human Breast Tissues Dissociation 
 
 [Protocol Link](https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1)
+
 Protocol Authors: Shanshan Bai, Emi Sei, Nicholas E. Navin
 
 The link above is for the protocol to issolate single cell susspension for used by HBCA project to obtain high-viability cell suspensions from freshly dissociated breast tissues from human patients. This protocol covers two two options for performing this protocol: rapid-dissociation (15-30 min) or exhaustive dissociation (overnight). 
