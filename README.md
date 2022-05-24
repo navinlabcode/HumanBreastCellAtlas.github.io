@@ -7,5 +7,5 @@ This is the files for the breast cell atlas website.
 img - this contains all images
 img/
 
-## important files
+## Important files
 index.md - this is the main screen
