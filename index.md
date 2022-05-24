@@ -5,7 +5,7 @@ Learn more in our manuscript and our GitHub repository.
 
 ## [CZI](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) 
 
-![CZI logo](/HumanBreastCellAtlas.github.io/docs/assets/images/zukerburg.png)
+![CZI logo](/navinlabcode/HumanBreastCellAtlas.github.io/blob/gh-pages/docs/assets/images/funding/zukerburg.png)
 
 ## Raw Data
 
