@@ -3,11 +3,15 @@ The adult human breast comprises of an intricate network of epithelial ducts and
 
 Learn more in our manuscript and our GitHub repository.
 
-## [CZI](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) 
+![Visual Breast Composition](/docs/assets/images/paper_figures/Breast_comp.png)
 
-![CZI logo](/docs/assets/images/funding/zukerburg.png)
+## [Chan Zuckerberg Initiative](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) and [Human Cell Atlas](https://www.humancellatlas.org/)
+
+![CZI Human Atlas logo](/docs/assets/images/funding/CZI_human_atlas.png)
+
 
 ## Raw Data
+
 
 ## Protocols
 
@@ -27,12 +31,26 @@ Protocol Authors: Kevin Nee, Quy Nguyen, Kai Kessenbrock
 
 The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissues to handle adipose tissue, due to its delicate and lipid filled nature is not amenable to these methods of interrogation. This protocol was used to investigate the heterogeneity of stroma and adipocytes in normal breast tissues, and determine the interactions of the breast microenvironment at single-cell resolution. 
 
+
 ## Team
+
+![MDA logo](/docs/assets/images/institutions/md-anderson-master-logo-vertical-sm.png)
 
 [Navin Lab](https://navinlabcode.github.io/) 
 
-[Kessenbrock Lab](https://kessenbrocklab.com/people/)
+![UCI logo](/docs/assets/images/institutions/UCI.png)
 
+[Kessenbrock Lab](https://kessenbrocklab.com/people/)
 [Lawson Lab](https://lawsonlab.org/people/)
 
+
 ## Contact 
+
+__Nicholas Navin, Professor__
+
+DEPARTMENT OF GENETICS
+THE UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER
+6767 BERTNER AVE. ROOM BSRB S15.8412
+HOUSTON, TX, 77030
+
+[nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
