@@ -49,7 +49,9 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 <p>
 
 <a href="https://navinlabcode.github.io/">Navin Lab</a>
-
+</p>
+ 
+<p>
 <a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html">Chen Lab</a>
  
 </p>
@@ -59,7 +61,7 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 <p>
 
 <a href="https://clinicianresources.bcm.edu/people/profile/1352/">Alastair Thompson</a>
-</p>
+ </p>
  
 <p>
 <a href="https://www.bcm.edu/people-search/bora-lim-68626">Bora Lim</a>
@@ -71,13 +73,15 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 <p>
  
 <a href="https://kessenbrocklab.com/people/">Kessenbrock Lab</a>
-
+</p>
+ 
+<p>
 <a href="https://lawsonlab.org/people/">Lawson Lab</a>
   
 </p>
 </details>
 
-Notes: This was deployed from gh-pages branch at 4:15 PM May 24, 2022.
+Notes: This was deployed from gh-pages branch at 4:19 PM May 24, 2022.
 
 ## Contact 
 
