@@ -67,18 +67,21 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 
 <details><summary>University of California Irvine</summary>
 <p>
-  
- 
-{% highlight ruby %}
- 
-puts 'Expanded message'
- 
-{% endhighlight %}
- 
  
 [Kessenbrock Lab](https://kessenbrocklab.com/people/)
   
 [Lawson Lab](https://lawsonlab.org/people/) 
+  
+</p>
+</details>
+
+
+<details><summary>University of California Irvine Test </summary>
+<p>
+ 
+Kessenbrock Lab<a href="https://kessenbrocklab.com/people/">Link</a>
+
+Lawson Lab<a href="https://lawsonlab.org/people/">Link</a>
   
 </p>
 </details>
