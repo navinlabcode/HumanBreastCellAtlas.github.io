@@ -3,15 +3,15 @@ The adult human breast comprises of an intricate network of epithelial ducts and
 
 Learn more in our manuscript and our GitHub repository.
 
-![Visual Breast Composition](/docs/assets/images/paper_figures/Breast_comp.png)
+![Visual Breast Composition](/docs/assets/images/paper_figures/Top_panel_abstract.png)
 
-## [Chan Zuckerberg Initiative](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) and [Human Cell Atlas](https://www.humancellatlas.org/)
+## [Chan Zuckerberg Initiative](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) [Human Cell Atlas](https://www.humancellatlas.org/)
 
 ![CZI Human Atlas logo](/docs/assets/images/funding/CZI_human_atlas.png)
 
-
 ## Raw Data
 
+You can download the raw data from XXX. 
 
 ## Protocols
 
@@ -34,14 +34,37 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 
 ## Team
 
-![MDA logo](/docs/assets/images/institutions/md-anderson-master-logo-vertical-sm.png)
+![MD Anderson, UT Health Graduate school of biomedical sciences, Baylor College of Medicine and the University of California Irvine logos](/docs/assets/images/institutions/Logo_string.png)
 
-[Navin Lab](https://navinlabcode.github.io/) 
+<details><summary>MD Anderson</summary>
+<p>
 
-![UCI logo](/docs/assets/images/institutions/UCI.png)
+ [Navin Lab](https://navinlabcode.github.io/) 
+  
+[Chen Lab](https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html) 
 
+</p>
+</details>
+
+<details><summary>Baylor College of Medicine</summary>
+<p>
+  
+[Alastair Thompson](https://clinicianresources.bcm.edu/people/profile/1352/)
+  
+[Bora Lim](https://www.bcm.edu/people-search/bora-lim-68626)
+  
+</p>
+</details>
+
+<details><summary>Baylor College of Medicine</summary>
+<p>
+  
 [Kessenbrock Lab](https://kessenbrocklab.com/people/)
-[Lawson Lab](https://lawsonlab.org/people/)
+  
+[Lawson Lab](https://lawsonlab.org/people/) 
+  
+</p>
+</details>
 
 
 ## Contact 
