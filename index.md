@@ -49,8 +49,11 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 __Nicholas Navin, Professor__
 
 DEPARTMENT OF GENETICS
+
 THE UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER
+
 6767 BERTNER AVE. ROOM BSRB S15.8412
+
 HOUSTON, TX, 77030
 
 [nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
