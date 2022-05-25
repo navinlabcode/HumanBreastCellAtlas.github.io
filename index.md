@@ -52,6 +52,10 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
   
 [Chen Lab](https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html) 
 
+<a href="https://navinlabcode.github.io/">Navin Lab</a>
+
+<a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html">Chen Lab</a>
+ 
 </p>
 </details>
 
@@ -61,27 +65,28 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 [Alastair Thompson](https://clinicianresources.bcm.edu/people/profile/1352/)
   
 [Bora Lim](https://www.bcm.edu/people-search/bora-lim-68626)
-  
+ 
+<a href="https://clinicianresources.bcm.edu/people/profile/1352/">Alastair Thompson</a>
+
+<a href="https://www.bcm.edu/people-search/bora-lim-68626">Bora Lim</a>
+ 
 </p>
 </details>
 
 <details><summary>University of California Irvine</summary>
 <p>
-  
- 
-{% highlight ruby %}
- 
-puts 'Expanded message'
- 
-{% endhighlight %}
- 
  
 [Kessenbrock Lab](https://kessenbrocklab.com/people/)
   
 [Lawson Lab](https://lawsonlab.org/people/) 
+ 
+<a href="https://kessenbrocklab.com/people/">Kessenbrock Lab</a>
+
+<a href="https://lawsonlab.org/people/">Lawson Lab</a>
   
 </p>
 </details>
+
 
 
 ## Contact 
