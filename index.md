@@ -19,11 +19,15 @@ You can download the raw data from XXX.
 
 <details><summary>Human Breast Tissues Dissociation </summary>
 <p>
- 
-[Protocol Link](https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1)
 
+<a href="https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1">Protocol Link</a>
+</p>
+
+<p>
 Protocol Authors: Shanshan Bai, Emi Sei, Nicholas E. Navin
+</p>
 
+<p>
 The link above is for the protocol to issolate single cell susspension for used by HBCA project to obtain high-viability cell suspensions from freshly dissociated breast tissues from human patients. This protocol covers two two options for performing this protocol: rapid-dissociation (15-30 min) or exhaustive dissociation (overnight). 
  
  </p>
@@ -32,10 +36,14 @@ The link above is for the protocol to issolate single cell susspension for used 
 <details><summary>Single Nuclei RNA Sequencing of Breast Adipose Tissue (10x Nuclei-Seq)</summary>
 <p>
 
-[Protocol Link](https://www.protocols.io/view/single-nuclei-rna-sequencing-of-breast-adipose-tis-6qpvreob3lmk/v1)
+<a href="https://www.protocols.io/view/single-nuclei-rna-sequencing-of-breast-adipose-tis-6qpvreob3lmk/v1">Protocol Link</a>
+</p>
 
+<p>
 Protocol Authors: Kevin Nee, Quy Nguyen, Kai Kessenbrock
+</p>
 
+<p>
 The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissues to handle adipose tissue, due to its delicate and lipid filled nature is not amenable to these methods of interrogation. This protocol was used to investigate the heterogeneity of stroma and adipocytes in normal breast tissues, and determine the interactions of the breast microenvironment at single-cell resolution. 
 
 </p>
