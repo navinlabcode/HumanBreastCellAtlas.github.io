@@ -10,42 +10,19 @@ Learn more in our manuscript and our GitHub repository.
 
 You can download the raw data from XXX. 
 
-## Protocols
+## [Protocols](./protocols.md)  
 
-Multiple protocol have been produced and optimized for breast tissues for single cell and single nuclei sequencing by our team. Detailed list of the protocols can be found [here](./protocols.md).
+## Software ??? 
 
-## Team
+Links to where software we produced??? 
 
-![MD Anderson, UT Health Graduate school of biomedical sciences, Baylor College of Medicine and the University of California Irvine logos](/docs/assets/images/institutions/Logo_string.png)
+## Scripts ??? 
 
-<details><summary>MD Anderson</summary>
-<p></p><p>
-<a href="https://navinlabcode.github.io/">Navin Lab</a>
-</p><p>
-<a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html">Chen Lab</a>
-</p>
-</details>
+Links to where scripts used to for tha analysis ??? 
 
-<details><summary>Baylor College of Medicine</summary>
-<p></p><p>
-<a href="https://clinicianresources.bcm.edu/people/profile/1352/">Alastair Thompson</a>
-</p><p>
-<a href="https://www.bcm.edu/people-search/bora-lim-68626">Bora Lim</a>
-</p>
-</details>
+## [Team](./team.md) 
 
-<details><summary>University of California Irvine</summary>
-<p></p><p> 
-<a href="https://kessenbrocklab.com/people/">Kessenbrock Lab</a>
-</p><p>
-<a href="https://lawsonlab.org/people/">Lawson Lab</a>
-</p>
-</details>
-<p></p>
-
-## Funding
-
-This project was made possible by Chan Zuckerberg Initiative and Human Cell Atlas. More details can be found [here](./funding.md).
+## [Funding](./funding.md)
 
 ## Contact 
 
