@@ -81,5 +81,5 @@ HOUSTON, TX, 77030
 
 [nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
 
-[Link to another page](./another-page.html).
+[Link to another page](./another_page.md).
 
