@@ -18,34 +18,22 @@ You can download the raw data from XXX.
 ### Human Breast Tissues Dissociation 
 
 <details><summary>Human Breast Tissues Dissociation </summary>
-<p>
-
+<p></p><p>
 <a href="https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1">Protocol Link</a>
-</p>
-
-<p>
+</p><p>
 Protocol Authors: Shanshan Bai, Emi Sei, Nicholas E. Navin
-</p>
-
-<p>
+</p><p>
 The link above is for the protocol to issolate single cell susspension for used by HBCA project to obtain high-viability cell suspensions from freshly dissociated breast tissues from human patients. This protocol covers two two options for performing this protocol: rapid-dissociation (15-30 min) or exhaustive dissociation (overnight). 
- 
- </p>
+</p>
 </details>
- 
+
 <details><summary>Single Nuclei RNA Sequencing of Breast Adipose Tissue (10x Nuclei-Seq)</summary>
-<p>
-
+<p></p><p>
 <a href="https://www.protocols.io/view/single-nuclei-rna-sequencing-of-breast-adipose-tis-6qpvreob3lmk/v1">Protocol Link</a>
-</p>
-
-<p>
+</p><p>
 Protocol Authors: Kevin Nee, Quy Nguyen, Kai Kessenbrock
-</p>
-
-<p>
+</p><p>
 The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissues to handle adipose tissue, due to its delicate and lipid filled nature is not amenable to these methods of interrogation. This protocol was used to investigate the heterogeneity of stroma and adipocytes in normal breast tissues, and determine the interactions of the breast microenvironment at single-cell resolution. 
-
 </p>
 </details>
 
@@ -54,38 +42,26 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 ![MD Anderson, UT Health Graduate school of biomedical sciences, Baylor College of Medicine and the University of California Irvine logos](/docs/assets/images/institutions/Logo_string.png)
 
 <details><summary>MD Anderson</summary>
-<p>
-
+<p></p><p>
 <a href="https://navinlabcode.github.io/">Navin Lab</a>
-</p>
- 
-<p>
+</p><p>
 <a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/ken-chen-laboratory.html">Chen Lab</a>
- 
 </p>
 </details>
 
 <details><summary>Baylor College of Medicine</summary>
-<p>
-
+<p></p><p>
 <a href="https://clinicianresources.bcm.edu/people/profile/1352/">Alastair Thompson</a>
- </p>
- 
-<p>
+</p><p>
 <a href="https://www.bcm.edu/people-search/bora-lim-68626">Bora Lim</a>
-
 </p>
 </details>
 
 <details><summary>University of California Irvine</summary>
-<p>
- 
+<p></p><p> 
 <a href="https://kessenbrocklab.com/people/">Kessenbrock Lab</a>
-</p>
- 
-<p>
+</p><p>
 <a href="https://lawsonlab.org/people/">Lawson Lab</a>
-  
 </p>
 </details>
 
