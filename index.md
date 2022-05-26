@@ -81,8 +81,6 @@ HOUSTON, TX, 77030
 
 [nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
 
-# Testing Items 
+# [Funding](./funding.md).
 
-[Link to another page](./another_page.md).
-
-Notes: This was deployed from gh-pages branch at May 26, 2022 9:50 AM.
+Notes: This was deployed from gh-pages branch at May 26, 2022 10:27 AM.
