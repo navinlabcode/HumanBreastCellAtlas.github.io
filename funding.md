@@ -18,7 +18,7 @@ The Human Cell Atlas (HCA) is an international group of researchers which seeks 
 Our project was for a Human Breast Cell Atlas was funded in 2017. The Seed project focused on  establishing technical conditions for isolating and classifying cell types in normal breast tissue to recommend best practices. The expanded project was funded in 2019 to establish a comprehensive reference of cell types and cell states in human breast tissue with single cell and spatial resolution.
 
 ### Behind the Scenes of the Human Breast Cell Atlas Project
-For more Behind the Scenes of the Human Breast Cell Atlas Project are detailed in an article by Renée van Amerongen. 
+For more Behind the Scenes of the Human Breast Cell Atlas Project are detailed in an article by Renée van Amerongen.  
 Full article can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8081765/).
 
 [back](./)
