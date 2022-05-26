@@ -6,23 +6,16 @@ Learn more in our manuscript and our GitHub repository.
 
 ![Visual Breast Composition](/docs/assets/images/paper_figures/Top_panel_abstract.png)
 
-## Raw Data
-
-You can download the raw data from XXX. 
-
 ## [Protocols](./protocols.md)  
+
+## Software
+
+## Scripts
+
+## Raw Data
 
 ## [Team](./team.md) 
 
 ## [Funding](./funding.md)
 
-## Contact
-
-__Nicholas Navin, Professor__
-
-DEPARTMENT OF GENETICS  
-THE UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER  
-6767 BERTNER AVE. ROOM BSRB S15.8412  
-HOUSTON, TX, 77030  
-
-[nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
+## [Contact](./contact.md)
