@@ -12,19 +12,11 @@ You can download the raw data from XXX.
 
 ## [Protocols](./protocols.md)  
 
-## Software ??? 
-
-Links to where software we produced??? 
-
-## Scripts ??? 
-
-Links to where scripts used to for tha analysis ??? 
-
 ## [Team](./team.md) 
 
 ## [Funding](./funding.md)
 
-## Contact 
+## Contact
 
 __Nicholas Navin, Professor__
 
