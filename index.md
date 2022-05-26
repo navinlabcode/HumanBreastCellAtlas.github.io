@@ -6,39 +6,13 @@ Learn more in our manuscript and our GitHub repository.
 
 ![Visual Breast Composition](/docs/assets/images/paper_figures/Top_panel_abstract.png)
 
-
-## [Chan Zuckerberg Initiative](https://chanzuckerberg.com/human-cell-atlas/the-human-breast-cell-atlas/) [Human Cell Atlas](https://www.humancellatlas.org/)
-
-![CZI Human Atlas logo](/docs/assets/images/funding/CZI_human_atlas.png)
-
 ## Raw Data
 
 You can download the raw data from XXX. 
 
-
 ## Protocols
 
-<details><summary>Human Breast Tissues Dissociation </summary>
-<p></p><p>
-<a href="https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1">Protocol Link</a>
-</p><p>
-Protocol Authors: Shanshan Bai, Emi Sei, Nicholas E. Navin
-</p><p>
-The link above is for the protocol to issolate single cell susspension for used by HBCA project to obtain high-viability cell suspensions from freshly dissociated breast tissues from human patients. This protocol covers two two options for performing this protocol: rapid-dissociation (15-30 min) or exhaustive dissociation (overnight). 
-</p>
-</details>
-
-<details><summary>Single Nuclei RNA Sequencing of Breast Adipose Tissue (10x Nuclei-Seq)</summary>
-<p></p><p>
-<a href="https://www.protocols.io/view/single-nuclei-rna-sequencing-of-breast-adipose-tis-6qpvreob3lmk/v1">Protocol Link</a>
-</p><p>
-Protocol Authors: Kevin Nee, Quy Nguyen, Kai Kessenbrock
-</p><p>
-The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissues to handle adipose tissue, due to its delicate and lipid filled nature is not amenable to these methods of interrogation. This protocol was used to investigate the heterogeneity of stroma and adipocytes in normal breast tissues, and determine the interactions of the breast microenvironment at single-cell resolution. 
-</p>
-</details>
-<p></p>
-
+Multiple protocol have been produced and optimized for breast tissues for single cell and single nuclei sequencing by our team. Detailed list of the protocols can be found [here](./protocols.md).
 
 ## Team
 
@@ -69,6 +43,9 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 </details>
 <p></p>
 
+## Funding
+
+This project was made possible by Chan Zuckerberg Initiative and Human Cell Atlas. More details can be found [here](./funding.md).
 
 ## Contact 
 
@@ -80,7 +57,3 @@ THE UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER
 HOUSTON, TX, 77030  
 
 [nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
-
-# [Funding](./funding.md).
-
-Notes: This was deployed from gh-pages branch at May 26, 2022 10:27 AM.
