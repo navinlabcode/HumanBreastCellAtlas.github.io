@@ -65,8 +65,6 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 </p>
 </details>
 
-Notes: This was deployed from gh-pages branch at `r format(Sys.time(), '%A %B %d, %Y')`.
-
 ## Contact 
 
 __Nicholas Navin, Professor__
@@ -81,5 +79,10 @@ HOUSTON, TX, 77030
 
 [nnavin (at) mdanderson.org](mailto:nnavin@mdanderson.org)
 
+# Testing Items 
+
 [Link to another page](./another_page.md).
 
+For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
+
+Notes: This was deployed from gh-pages branch at May 26, 2022 9:42 AM.
