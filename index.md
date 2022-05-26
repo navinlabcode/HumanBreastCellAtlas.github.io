@@ -18,8 +18,6 @@ You can download the raw data from XXX.
 
 ## Protocols
 
-### Human Breast Tissues Dissociation 
-
 <details><summary>Human Breast Tissues Dissociation </summary>
 <p></p><p>
 <a href="https://www.protocols.io/view/dissociation-of-single-cell-suspensions-from-human-bp2l641bkvqe/v1">Protocol Link</a>
@@ -39,6 +37,7 @@ Protocol Authors: Kevin Nee, Quy Nguyen, Kai Kessenbrock
 The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissues to handle adipose tissue, due to its delicate and lipid filled nature is not amenable to these methods of interrogation. This protocol was used to investigate the heterogeneity of stroma and adipocytes in normal breast tissues, and determine the interactions of the breast microenvironment at single-cell resolution. 
 </p>
 </details>
+<p></p>
 
 
 ## Team
@@ -68,6 +67,7 @@ The link above is for the protocol for 10x Nuclei-Seq adjusted for breast tissue
 <a href="https://lawsonlab.org/people/">Lawson Lab</a>
 </p>
 </details>
+<p></p>
 
 
 ## Contact 
