@@ -4,10 +4,3 @@ logo: docs/assets/images/img/Codex.png
 title: Human Breast Cell Atlas
 email: NNavin@mdanderson.org
 description: "The Human Breast Cell Atlas"
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: DD1144
-  secondary: ffffff
-  third: ccc
-  secondary-dark: 083388
